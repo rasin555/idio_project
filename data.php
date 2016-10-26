@@ -10,3 +10,8 @@
 	echo "Data.php";
 
 ?>
+<?php
+
+	echo "Branch Data Insert";
+
+?>
