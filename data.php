@@ -10,3 +10,6 @@
 	echo "Data.php";
 	echo "Data2.php";
 ?>
+<?php
+	echo "Data3.php";
+?>
